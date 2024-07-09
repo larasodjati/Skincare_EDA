@@ -30,3 +30,22 @@ The presence of harmful ingredients can significantly impact consumer sentiment 
 
 ![Screenshot of the pie chart of total skincare products with and without harmful ingredients](https://github.com/larasodjati/Skincare_EDA/blob/main/Pie%20Chart%20Skincare%20Products.png)
 
+Sentiment distribution in Skincare product
+
+Sentiment distribution with harmful ingredients:
+Positive: 74.04%
+Neutral: 23.64%
+Negative: 2.32%
+
+Sentiment distribution without harmful ingredients:
+Positive: 80.30%
+Neutral: 17.90%
+Negative: 1.81%
+
+The data shows that products without harmful ingredients tend to have a higher proportion of positive sentiment and a lower proportion of neutral and negative sentiments compared to products with harmful ingredients.
+
+The sentiment analysis reveals significant differences between products with and without harmful ingredients. Products without harmful ingredients tend to receive more positive reviews (80.30%) compared to those with harmful ingredients (74.04%). On the other hand, products with harmful ingredients have a higher proportion of neutral (23.64%) and negative sentiments (2.32%) than those without harmful ingredients (17.90% neutral and 1.81% negative).
+
+These findings suggest that the presence of harmful ingredients in skincare products can negatively impact consumer sentiment, leading to lower product ratings and potentially affecting brand reputation. Manufacturers should consider formulating products with safer ingredients to enhance consumer satisfaction and foster positive reviews.
+
+![Screenshot of the pie chart of sentiment distribution with and without harmful ingredients](https://github.com/larasodjati/Skincare_EDA/blob/main/Pie%20Chart%20Sentiment%20Distribution.png)
