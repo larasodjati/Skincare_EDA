@@ -1,9 +1,7 @@
 # Skincare Product Analysis
 
 ## Description
-This project analyzes skincare products to determine prevalence of harmful ingredients and their impact
-on product ratings and consumer sentiment. The dataset includes various skincare products, their ingredients, 
-prices, and user ratings.
+This project analyzes skincare products to determine the prevalence of harmful ingredients and their impact on product ratings and consumer sentiment. The dataset includes various skincare products, their ingredients, prices, and user ratings.
 
 ## Data Sources
 - [Skincare Product Ingredients](https://www.kaggle.com/datasets/dominoweir/skincare-product-ingredients): This dataset contains detailed information on various skincare products and their ingredients.
@@ -19,14 +17,16 @@ In this study, we will:
 6. **Provide Insights and Recommendations**: Offer actionable recommendations for manufacturers and regulators based on our findings.
 
 ## Summary, Conclusion, and Insights
-Prevalence of Harmful Ingredients in Skincare Products
-Total number of skincare products: 1472
-Total number of skincare products with harmful ingredients: 863
-Prevalence of harmful ingredients: 58.63%
-This indicates that there is a significant portion of skincare products in the dataset contain harmful ingredients, making up more than half of the total products analyzed.
+Prevalence of Harmful Ingredients in Skincare Products:
+- Total number of skincare products: 1472
+- Total number of skincare products with harmful ingredients: 863
+- Prevalence of harmful ingredients: 58.63%
 
-The analysis shows that 58.63% of the skincare products in our dataset contain harmful ingredients. This high prevalence suggests that consumers need to be aware about the products they use. It also indicates a potential area of improvement for skincare product manufacturers to reduce or eliminate harmful ingredients in their formulations.
+This indicates that a significant portion of skincare products in the dataset contain harmful ingredients, making up more than half of the total products analyzed.
+
+The analysis shows that 58.63% of the skincare products in our dataset contain harmful ingredients. This high prevalence suggests that consumers need to be aware of the products they use. It also indicates a potential area of improvement for skincare product manufacturers to reduce or eliminate harmful ingredients in their formulations.
 
 The presence of harmful ingredients can significantly impact consumer sentiment and product ratings, as shown in subsequent analyses. Manufacturers who prioritize safer ingredients may see a positive impact on consumer satisfaction and product reputation.
 
 ![Screenshot of the pie chart of total skincare products with and without harmful ingredients](https://github.com/larasodjati/Skincare_EDA/blob/main/Pie%20Chart%20Skincare%20Products.png)
+
